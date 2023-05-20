@@ -1,3 +1,5 @@
+//compile with "$CC -lelf main.c -o elfToMif"
+
 #include <errno.h>
 #include <fcntl.h>
 #include <libelf.h>
